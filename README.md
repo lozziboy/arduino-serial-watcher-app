@@ -7,6 +7,6 @@ https://github.com/lozziboy/arduino-serial-variable-table
 
 ___
 * Preview:
-![Example](https://github.com/lozziboy/arduino-serial-watcher-app/blob/main/Example1.PNG)  
+![Example](https://github.com/lozziboy/arduino-serial-variable-table/blob/main/docs/image.PNG)  
 
 
